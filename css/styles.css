@@ -1,0 +1,18 @@
+body {
+  background-image: url("../images/portfolio-background.png");
+  margin :  20px;
+  color: #ffffff
+}
+.introduction {
+  width: 300px;
+  border: 2px solid #000000;
+}
+.introduction h1 {
+  font-size: 20px;
+}
+.introduction h2{
+  font-size: 18px;
+}
+.projects {
+
+}
