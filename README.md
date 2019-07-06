@@ -18,6 +18,8 @@ HTML.used divs and classes
 CSS. used classes to style specific elements
 ## Support and contact details
 if you run into any issues please contact knyota@gmail.com
+## Follow the link to view the projects
+https://nyota254.github.io/portfolio/
 ### License
 *MIT*
 Copyright (c) 2019 **Kingecha Kevin Nyota**
